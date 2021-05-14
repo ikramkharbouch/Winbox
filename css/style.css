@@ -51,7 +51,7 @@ ul {
 }
 
 nav {
-    width: 30%;
+    width: 50%;
 }
 
 nav ul {
@@ -63,6 +63,7 @@ nav ul {
 nav ul li {
     color: var(--text-color);
     cursor: pointer;
+    padding: 10px;
 }
 
 ul li {
